@@ -47,7 +47,7 @@ st.markdown(
 # GEMINI CONFIG
 # ==================================================
 
-API_KEY = "AIzaSyALEhhAXkCNzx8dcwDNFVGeO7seqVkh6eU"
+API_KEY = "Enter your API Key here"
 
 genai.configure(api_key=API_KEY)
 
